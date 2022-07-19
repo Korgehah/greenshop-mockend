@@ -1,1 +1,350 @@
-sadsadsadsadas
+{
+	"productCards": [{
+			"id": 1,
+			"title": "Barberton Daisy",
+			"fullPrice": 119,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/KVgt64z/Group-108.jpg",
+			"slug": "barberton-daisy",
+			"tag": ["new"],
+			"size": "small"
+		},
+		{
+			"id": 2,
+			"title": "Angel Wing Begonia",
+			"fullPrice": 169,
+			"categoriesIds": [2, 4, 6, 8],
+			"src": "https://i.ibb.co/HKS6gz2/Group-109.jpg",
+			"slug": "angel-wing-begonia",
+			"size": "small"
+		},
+		{
+			"id": 3,
+			"title": "African Violet",
+			"fullPrice": 199,
+			"discountPrice": 229,
+			"categoriesIds": [3, 5, 7, 9],
+			"src": "https://i.ibb.co/7XYKDLM/Group-110.jpg",
+			"slug": "african-violet",
+			"tag": ["sale"],
+			"size": "small"
+
+		},
+		{
+			"id": 4,
+			"title": "Beach Spider Lily",
+			"fullPrice": 129,
+			"categoriesIds": [4, 5, 7, 8],
+			"src": "https://i.ibb.co/4MYbpBP/Group-111.jpg",
+			"slug": "beach-spider-lily",
+			"size": "small"
+		},
+		{
+			"id": 5,
+			"title": "Blushing Bromeliad",
+			"fullPrice": 139,
+			"categoriesIds": [1, 2, 3, 5, 8],
+			"src": "https://i.ibb.co/x3Ht3BD/Group-112.jpg",
+			"slug": "blushing-bromeliad",
+			"tag": ["new"],
+			"size": "medium"
+		},
+		{
+			"id": 6,
+			"title": "Aluminum Plant",
+			"fullPrice": 179,
+			"categoriesIds": [3, 7, 9],
+			"src": "https://i.ibb.co/Gsfv9sk/Group-113.jpg",
+			"slug": "aluminum-plant",
+			"size": "medium"
+		},
+		{
+			"id": 7,
+			"title": "Bird's Nest Fern",
+			"fullPrice": 99,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/4VGJY4n/Group-114.jpg",
+			"slug": "bird's-nest-fern",
+			"size": "medium"
+		},
+		{
+			"id": 8,
+			"title": "Broadleaf Lady Palm",
+			"fullPrice": 59,
+			"categoriesIds": [1, 2],
+			"src": "https://i.ibb.co/JpH2jTw/Group-115.jpg",
+			"slug": "broadleaf-lady-palm",
+			"size": "medium"
+		},
+		{
+			"id": 9,
+			"title": "Chinese Evergreen",
+			"fullPrice": 39,
+			"categoriesIds": [2, 4, 6, 9],
+			"src": "https://i.ibb.co/8mWsB6Y/Group-116.jpg",
+			"slug": "chinese-evergreen",
+			"tag": ["new"],
+			"size": "medium"
+		},
+		{
+			"id": 10,
+			"title": "Sleeping Lilac",
+			"fullPrice": 95,
+			"discountPrice": 100,
+			"categoriesIds": [1, 4, 5],
+			"src": "https://i.ibb.co/HKS6gz2/Group-109.jpg",
+			"slug": "sleeping-lilac",
+			"tag": ["sale"],
+			"size": "large"
+		},
+		{
+			"id": 11,
+			"title": "Canis Tongue",
+			"fullPrice": 125,
+			"categoriesIds": [7, 8, 9],
+			"src": "https://i.ibb.co/Gsfv9sk/Group-113.jpg",
+			"slug": "canis-tongue",
+			"tag": ["new"],
+			"size": "large"
+		},
+		{
+			"id": 12,
+			"title": "Bleeding Spoolwood",
+			"fullPrice": 102,
+			"categoriesIds": [2, 5, 6],
+			"src": "https://i.ibb.co/HKS6gz2/Group-109.jpg",
+			"slug": "bleeding-spoolwood",
+			"size": "large"
+		},
+		{
+			"id": 13,
+			"title": "Phantom Dogbane",
+			"fullPrice": 209,
+			"discountPrice": 229,
+			"categoriesIds": [1, 4, 7],
+			"src": "https://i.ibb.co/KVgt64z/Group-108.jpg",
+			"slug": "phantom-dogbane",
+			"tag": ["new", "sale"],
+			"size": "large"
+		},
+		{
+			"id": 14,
+			"title": "Eostrabbanor",
+			"fullPrice": 67,
+			"discountPrice": 120,
+			"categoriesIds": [2, 5, 6],
+			"src": "https://i.ibb.co/4VGJY4n/Group-114.jpg",
+			"slug": "eostrabbanor",
+			"tag": ["sale"],
+			"size": "large"
+		},
+		{
+			"id": 15,
+			"title": "Blixianna",
+			"fullPrice": 199,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/4MYbpBP/Group-111.jpg",
+			"slug": "blixianna",
+			"tag": ["new"],
+			"size": "large"
+		},
+		{
+			"id": 16,
+			"title": "Vuvum",
+			"fullPrice": 50,
+			"categoriesIds": [2, 9],
+			"src": "https://i.ibb.co/x3Ht3BD/Group-112.jpg",
+			"slug": "vuvum",
+			"size": "large"
+		},
+		{
+			"id": 17,
+			"title": "Golden Garget",
+			"fullPrice": 39,
+			"discountPrice": 55,
+			"categoriesIds": [1, 5, 7],
+			"src": "https://i.ibb.co/7XYKDLM/Group-110.jpg",
+			"slug": "golden-garget",
+			"tag": ["sale"],
+			"size": "large"
+		},
+		{
+			"id": 18,
+			"title": "Pleasant Ginger",
+			"fullPrice": 41,
+			"categoriesIds": [3, 6, 7],
+			"src": "https://i.ibb.co/Gsfv9sk/Group-113.jpg",
+			"slug": "pleasant-ginger",
+			"size": "large"
+		},
+		{
+			"id": 19,
+			"title": "Mocking Inkberry",
+			"fullPrice": 85,
+			"discountPrice": 99,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/HKS6gz2/Group-109.jpg",
+			"slug": "mocking-inkberry",
+			"tag": ["sale"],
+			"size": "large"
+		},
+		{
+			"id": 20,
+			"title": "Bright Boxwood",
+			"fullPrice": 90,
+			"categoriesIds": [2, 3],
+			"src": "https://i.ibb.co/x3Ht3BD/Group-112.jpg",
+			"slug": "bright-boxwood",
+			"tag": ["new"],
+			"size": "large"
+		},
+		{
+			"id": 21,
+			"title": "Cliff Garlic",
+			"fullPrice": 35,
+			"categoriesIds": [1],
+			"src": "https://i.ibb.co/8mWsB6Y/Group-116.jpg",
+			"slug": "cliff-garlic",
+			"size": "small"
+		},
+		{
+			"id": 22,
+			"title": "Smoss",
+			"fullPrice": 64,
+			"discountPrice": 207,
+			"categoriesIds": [5],
+			"src": "https://i.ibb.co/KVgt64z/Group-108.jpg",
+			"slug": "smoss",
+			"tag": ["sale"],
+			"size": "small"
+		},
+		{
+			"id": 23,
+			"title": "Iaknove",
+			"fullPrice": 19,
+			"categoriesIds": [6],
+			"src": "https://i.ibb.co/4MYbpBP/Group-111.jpg",
+			"slug": "iaknove",
+			"tag": ["new"],
+			"size": "small"
+		},
+		{
+			"id": 24,
+			"title": "Aaglumbip",
+			"fullPrice": 151,
+			"categoriesIds": [2, 5, 6],
+			"src": "https://i.ibb.co/7XYKDLM/Group-110.jpg",
+			"slug": "aaglumbip",
+			"size": "small"
+		},
+		{
+			"id": 25,
+			"title": "Uxokkamire",
+			"fullPrice": 158,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/4VGJY4n/Group-114.jpg",
+			"slug": "uxokkamire",
+			"size": "small"
+		},
+		{
+			"id": 26,
+			"title": "Ipladfelda",
+			"fullPrice": 113,
+			"categoriesIds": [4],
+			"src": "https://i.ibb.co/Gsfv9sk/Group-113.jpg",
+			"slug": "ipladfelda",
+			"tag": ["new"],
+			"size": "small"
+		},
+		{
+			"id": 27,
+			"title": "Fake Broadleaf",
+			"fullPrice": 121,
+			"categoriesIds": [7],
+			"src": "https://i.ibb.co/8mWsB6Y/Group-116.jpg",
+			"slug": "fake-broadleaf",
+			"tag": ["new"],
+			"size": "medium"
+		},
+		{
+			"id": 28,
+			"title": "Spirit Bearberry",
+			"fullPrice": 204,
+			"discountPrice": 220,
+			"categoriesIds": [8],
+			"src": "https://i.ibb.co/4VGJY4n/Group-114.jpg",
+			"slug": "spirit-bearberry",
+			"tag": ["sale"],
+			"size": "medium"
+		},
+		{
+			"id": 29,
+			"title": "Sanguine Poisonflower",
+			"fullPrice": 57,
+			"categoriesIds": [1, 3, 5, 7, 9],
+			"src": "https://i.ibb.co/x3Ht3BD/Group-112.jpg",
+			"slug": "sanguine-poisonflower",
+			"tag": ["new"],
+			"size": "medium"
+		},
+		{
+			"id": 30,
+			"title": "Twin Weed",
+			"fullPrice": 189,
+			"categoriesIds": [6],
+			"src": "https://i.ibb.co/4MYbpBP/Group-111.jpg",
+			"slug": "twin-weed",
+			"size": "medium"
+		},
+		{
+			"id": 31,
+			"title": "Tickle Windroot",
+			"fullPrice": 79,
+			"discountPrice": 129,
+			"categoriesIds": [9],
+			"src": "https://i.ibb.co/7XYKDLM/Group-110.jpg",
+			"slug": "tickle-windroot",
+			"tag": ["sale"],
+			"size": "medium"
+		},
+		{
+			"id": 32,
+			"title": "Eeshelda",
+			"fullPrice": 61,
+			"categoriesIds": [2],
+			"src": "https://i.ibb.co/HKS6gz2/Group-109.jpg",
+			"slug": "eeshelda",
+			"tag": ["new"],
+			"size": "medium"
+		}
+	],
+	"blog": [{
+			"id": 1,
+			"title": "Cactus & Succulent Care Tips",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat urna metus, nec mollis sapien pharetra sit amet. Fusce nec justo sit amet diam vehicula sollicitudin nec eu risus. Vivamus interdum lacus est. Sed hendrerit neque eget nibh varius scelerisque vel at elit. Fusce et rutrum purus. Cras ac laoreet nunc. Fusce blandit tellus vitae metus pellentesque finibus. Nam sed luctus dolor. Phasellus id elit in mi consectetur porttitor. Nunc non nulla vel nulla pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat urna metus, nec mollis sapien pharetra sit amet. Fusce nec justo sit amet diam vehicula sollicitudin nec eu risus. Vivamus interdum lacus est. Sed hendrerit neque eget nibh varius scelerisque vel at elit. Fusce et rutrum purus. Cras ac laoreet nunc. Fusce blandit tellus vitae metus pellentesque finibus. Nam sed luctus dolor. Phasellus id elit in mi consectetur porttitor. Nunc non nulla vel nulla pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat urna metus, nec mollis sapien pharetra sit amet. Fusce nec justo sit amet diam vehicula sollicitudin nec eu risus. Vivamus interdum lacus est. Sed hendrerit neque eget nibh varius scelerisque vel at elit. Fusce et rutrum purus. Cras ac laoreet nunc. Fusce blandit tellus vitae metus pellentesque finibus. Nam sed luctus dolor. Phasellus id elit in mi consectetur porttitor. Nunc non nulla vel nulla pharetra scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat urna metus, nec mollis sapien pharetra sit amet. Fusce nec justo sit amet diam vehicula sollicitudin nec eu risus. Vivamus interdum lacus est. Sed hendrerit neque eget nibh varius scelerisque vel at elit. Fusce et rutrum purus. Cras ac laoreet nunc. Fusce blandit tellus vitae metus pellentesque finibus. Nam sed luctus dolor. Phasellus id elit in mi consectetur porttitor. Nunc non nulla vel nulla pharetra scelerisque.",
+			"date": "2022-07-21",
+			"src": "https://i.ibb.co/bHXznSm/01.png"
+		},
+		{
+			"id": 2,
+			"title": "Top 10 Succulents for Your Home",
+			"description": "Cras turpis sapien, pellentesque vitae neque sit amet, elementum eleifend tellus. In ac mi ut mi varius tempus. Proin eu varius velit. Cras eget nunc volutpat, pharetra metus vel, suscipit lectus. Proin quis condimentum elit. Maecenas risus arcu, ullamcorper quis ipsum eget, accumsan gravida magna. Nullam in ipsum sit amet massa faucibus vestibulum vitae ut nulla. Fusce nec sem lorem. Mauris mollis, mi eu tincidunt aliquam, erat enim tincidunt velit, sit amet viverra diam nisl eget purus. Praesent scelerisque a est eget vehicula. Donec fringilla placerat libero, eget sagittis enim mollis eget. Phasellus et facilisis tortor. Suspendisse ullamcorper risus dolor, eget tempor nisi luctus tincidunt. Vestibulum suscipit odio vitae arcu finibus bibendum. In hac habitasse platea dictumst. Aliquam facilisis posuere velit, non semper velit eleifend vitae. Cras turpis sapien, pellentesque vitae neque sit amet, elementum eleifend tellus. In ac mi ut mi varius tempus. Proin eu varius velit. Cras eget nunc volutpat, pharetra metus vel, suscipit lectus. Proin quis condimentum elit. Maecenas risus arcu, ullamcorper quis ipsum eget, accumsan gravida magna. Nullam in ipsum sit amet massa faucibus vestibulum vitae ut nulla. Fusce nec sem lorem. Mauris mollis, mi eu tincidunt aliquam, erat enim tincidunt velit, sit amet viverra diam nisl eget purus. Praesent scelerisque a est eget vehicula. Donec fringilla placerat libero, eget sagittis enim mollis eget. Phasellus et facilisis tortor. Suspendisse ullamcorper risus dolor, eget tempor nisi luctus tincidunt. Vestibulum suscipit odio vitae arcu finibus bibendum. In hac habitasse platea dictumst. Aliquam facilisis posuere velit, non semper velit eleifend vitae. Cras turpis sapien, pellentesque vitae neque sit amet, elementum eleifend tellus. In ac mi ut mi varius tempus. Proin eu varius velit. Cras eget nunc volutpat, pharetra metus vel, suscipit lectus. Proin quis condimentum elit. Maecenas risus arcu, ullamcorper quis ipsum eget, accumsan gravida magna. Nullam in ipsum sit amet massa faucibus vestibulum vitae ut nulla. Fusce nec sem lorem. Mauris mollis, mi eu tincidunt aliquam, erat enim tincidunt velit, sit amet viverra diam nisl eget purus. Praesent scelerisque a est eget vehicula. Donec fringilla placerat libero, eget sagittis enim mollis eget. Phasellus et facilisis tortor. Suspendisse ullamcorper risus dolor, eget tempor nisi luctus tincidunt. Vestibulum suscipit odio vitae arcu finibus bibendum. In hac habitasse platea dictumst. Aliquam facilisis posuere velit, non semper velit eleifend vitae. Cras turpis sapien, pellentesque vitae neque sit amet, elementum eleifend tellus. In ac mi ut mi varius tempus. Proin eu varius velit. Cras eget nunc volutpat, pharetra metus vel, suscipit lectus. Proin quis condimentum elit. Maecenas risus arcu, ullamcorper quis ipsum eget, accumsan gravida magna. Nullam in ipsum sit amet massa faucibus vestibulum vitae ut nulla. Fusce nec sem lorem. Mauris mollis, mi eu tincidunt aliquam, erat enim tincidunt velit, sit amet viverra diam nisl eget purus. Praesent scelerisque a est eget vehicula. Donec fringilla placerat libero, eget sagittis enim mollis eget. Phasellus et facilisis tortor. Suspendisse ullamcorper risus dolor, eget tempor nisi luctus tincidunt. Vestibulum suscipit odio vitae arcu finibus bibendum. In hac habitasse platea dictumst. Aliquam facilisis posuere velit, non semper velit eleifend vitae. Cras turpis sapien, pellentesque vitae neque sit amet, elementum eleifend tellus. In ac mi ut mi varius tempus. Proin eu varius velit. Cras eget nunc volutpat, pharetra metus vel, suscipit lectus. Proin quis condimentum elit. Maecenas risus arcu, ullamcorper quis ipsum eget, accumsan gravida magna. Nullam in ipsum sit amet massa faucibus vestibulum vitae ut nulla. Fusce nec sem lorem. Mauris mollis, mi eu tincidunt aliquam, erat enim tincidunt velit, sit amet viverra diam nisl eget purus. Praesent scelerisque a est eget vehicula. Donec fringilla placerat libero, eget sagittis enim mollis eget. Phasellus et facilisis tortor. Suspendisse ullamcorper risus dolor, eget tempor nisi luctus tincidunt. Vestibulum suscipit odio vitae arcu finibus bibendum. In hac habitasse platea dictumst. Aliquam facilisis posuere velit, non semper velit eleifend vitae.",
+			"date": "2022-07-22",
+			"src": "https://i.ibb.co/kmhtdgX/02.png"
+		},
+		{
+			"id": 3,
+			"title": "Cacti & Succulent Care Tips",
+			"description": "In tincidunt scelerisque ante a venenatis. Fusce sagittis congue justo in aliquam. Aenean aliquet nibh quis nibh euismod, interdum condimentum enim auctor. Suspendisse id lectus metus. Donec sodales mollis urna in scelerisque. Nulla in massa lorem. Sed placerat diam purus, nec ornare magna fringilla sit amet. In tincidunt scelerisque ante a venenatis. Fusce sagittis congue justo in aliquam. Aenean aliquet nibh quis nibh euismod, interdum condimentum enim auctor. Suspendisse id lectus metus. Donec sodales mollis urna in scelerisque. Nulla in massa lorem. Sed placerat diam purus, nec ornare magna fringilla sit amet. In tincidunt scelerisque ante a venenatis. Fusce sagittis congue justo in aliquam. Aenean aliquet nibh quis nibh euismod, interdum condimentum enim auctor. Suspendisse id lectus metus. Donec sodales mollis urna in scelerisque. Nulla in massa lorem. Sed placerat diam purus, nec ornare magna fringilla sit amet. In tincidunt scelerisque ante a venenatis. Fusce sagittis congue justo in aliquam. Aenean aliquet nibh quis nibh euismod, interdum condimentum enim auctor. Suspendisse id lectus metus. Donec sodales mollis urna in scelerisque. Nulla in massa lorem. Sed placerat diam purus, nec ornare magna fringilla sit amet. In tincidunt scelerisque ante a venenatis. Fusce sagittis congue justo in aliquam. Aenean aliquet nibh quis nibh euismod, interdum condimentum enim auctor. Suspendisse id lectus metus. Donec sodales mollis urna in scelerisque. Nulla in massa lorem. Sed placerat diam purus, nec ornare magna fringilla sit amet.",
+			"date": "2022-07-23",
+			"src": "https://i.ibb.co/sRwXH4r/03.png"
+		},
+		{
+			"id": 4,
+			"title": "Best Houseplants Room by Room",
+			"description": "Cras venenatis lorem quis dolor ultrices ultricies. Vestibulum vitae neque quis erat lacinia vulputate. Maecenas nunc enim, pharetra vel nisl et, consectetur efficitur odio. In hac habitasse platea dictumst. Quisque rhoncus nisi ut augue accumsan porttitor quis id ligula. Praesent lobortis est id dolor dictum, at mollis libero elementum. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed malesuada ultricies mollis. Cras venenatis lorem quis dolor ultrices ultricies. Vestibulum vitae neque quis erat lacinia vulputate. Maecenas nunc enim, pharetra vel nisl et, consectetur efficitur odio. In hac habitasse platea dictumst. Quisque rhoncus nisi ut augue accumsan porttitor quis id ligula. Praesent lobortis est id dolor dictum, at mollis libero elementum. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed malesuada ultricies mollis. Cras venenatis lorem quis dolor ultrices ultricies. Vestibulum vitae neque quis erat lacinia vulputate. Maecenas nunc enim, pharetra vel nisl et, consectetur efficitur odio. In hac habitasse platea dictumst. Quisque rhoncus nisi ut augue accumsan porttitor quis id ligula. Praesent lobortis est id dolor dictum, at mollis libero elementum. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed malesuada ultricies mollis. Cras venenatis lorem quis dolor ultrices ultricies. Vestibulum vitae neque quis erat lacinia vulputate. Maecenas nunc enim, pharetra vel nisl et, consectetur efficitur odio. In hac habitasse platea dictumst. Quisque rhoncus nisi ut augue accumsan porttitor quis id ligula. Praesent lobortis est id dolor dictum, at mollis libero elementum. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed malesuada ultricies mollis.",
+			"date": "2022-07-24",
+			"src": "https://i.ibb.co/zPV5Dgn/04.png"
+		}
+	]
+}
